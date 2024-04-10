@@ -1,9 +1,9 @@
 .App {
   text-align: center;
   background-color: "#F8F8FA";
+  font-family: 'montserrat';
 }
 
-@layer mantine, mantine-datatable;
 
 .App-logo {
   height: 40vmin;
